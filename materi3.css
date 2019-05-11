@@ -1,0 +1,50 @@
+body{
+    background:pink;
+}
+h1{
+    font-family: 'Encode Sans Condensed', sans-serif;
+    color:red;
+    margin-bottom: 0;
+    text-align: center;
+    margin-top: 6px;
+}
+td{
+padding:0px;
+}
+.button {
+position:relative;
+left:-4px; 
+padding:10px 15px;
+border:0px solid red; 
+background-color:red;     
+color:whitesmoke; 
+font-weight:bold;
+}
+.search {
+padding:8px 15px; 
+background:white;     
+border:2px solid red;
+}
+table {
+    font-family: Encode Sans Condensed, sans-serif;
+    font-size: 14px;
+    color: black;
+    border-width: 2px;
+    border-color: black;
+    border-collapse: collapse;
+}
+table th {
+    border-width: 1px;
+    padding: 8px;
+    border-style: solid;
+    border-color: #FFA6A6;
+    background-color: #D56A6A;
+    color: #ffffff;
+}
+table td {
+    border-width: 1px;
+    padding: 8px;
+    border-style: solid;
+    border-color: #FFA6A6;
+    background-color: #ffffff;
+}
